@@ -113,11 +113,11 @@ python house_price_prediction.py
 
 ### Actual vs Predicted House Prices
 
-(Add `prediction_plot.png` here)
+![Prediction Plot](charts/prediction_plot.png)
 
 ### Residual Plot
 
-(Add `residual_plot.png` here)
+![Residual Plot](charts/residual_plot.png)
 
 ---
 
